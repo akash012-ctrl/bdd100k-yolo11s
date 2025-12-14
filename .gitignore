@@ -1,0 +1,12 @@
+# environments
+bdd_env/
+
+#dataset
+/bdd100k_dataset
+/yolov11_dataset
+Internship_AI_Model_Exercise_Nov2025 (1).pdf
+
+yolov11_dataset/*
+.vscode/*
+/docs
+yolo11*.pt
