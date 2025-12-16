@@ -12,3 +12,10 @@
   dawn/dusk 500
 
 - also converted the labels from json to yolo format
+
+NOTE: you need to change some of the paths according to your own folder and file structures in
+
+- data_analysis.ipynb
+- data_prepration.ipynb
+- model.ipynb
+- data.yaml file for train test and validation split
